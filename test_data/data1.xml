@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<auto-catalog>
+  <offers>
+    <offer>
+      <id>359039</id>
+      <mark>ГАЗ</mark>
+      <model>13 «Чайка»</model>
+      <generation>(1959-1981)</generation>
+      <year>1968</year>
+      <run>1453</run>
+      <color>Белый</color>
+      <body-type>Седан</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Автоматическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>20351648</generation_id>
+    </offer>
+    <offer>
+      <id>402501</id>
+      <mark>Волжанин</mark>
+      <model>5285</model>
+      <generation></generation>
+      <year>2012</year>
+      <run>192500</run>
+      <color>Зеленый</color>
+      <body-type>Специальный</body-type>
+      <engine-type>Дизель</engine-type>
+      <transmission>Механическая</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id></generation_id>
+    </offer>
+    <offer>
+      <id>418415</id>
+      <mark>Porsche</mark>
+      <model>Boxster</model>
+      <generation>III (981) (2012-2016)</generation>
+      <year>2013</year>
+      <run>16102</run>
+      <color>Коричневый</color>
+      <body-type>Родстер</body-type>
+      <engine-type>Бензин</engine-type>
+      <transmission>Робот</transmission>
+      <gear-type>Задний</gear-type>
+      <generation_id>8283150</generation_id>
+    </offer>
+  </offers>
+</auto-catalog>
